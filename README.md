@@ -24,7 +24,7 @@ The agent has to reach the goal state(ground) by taking the correct route toward
 Reward: +1 if the agent reaches goal state. 0 if the agent reaches the hole state.
 
 ### Graphical Representation
-![output](![WhatsApp Image 2024-03-05 at 15 13 08_f189157e](https://github.com/Bharadwaj2004/mdp-representation/assets/119560345/1525fa2d-8009-4ecc-9d9b-a1ea1b9952db)
+(![WhatsApp Image 2024-03-05 at 15 13 08_f189157e](https://github.com/Bharadwaj2004/mdp-representation/assets/119560345/1525fa2d-8009-4ecc-9d9b-a1ea1b9952db)
 )
 
 ## PYTHON REPRESENTATION:
@@ -46,7 +46,7 @@ P={0: {0: [(1.0, 0, 0.0, True)],
 ```
 
 ## OUTPUT:
-![output](![Screenshot (73)](https://github.com/Bharadwaj2004/mdp-representation/assets/119560345/f650292d-fd3c-4ffe-8ab1-ecb43f0d5b00)
+(![Screenshot (73)](https://github.com/Bharadwaj2004/mdp-representation/assets/119560345/f650292d-fd3c-4ffe-8ab1-ecb43f0d5b00)
 )
 
 ## RESULT:
